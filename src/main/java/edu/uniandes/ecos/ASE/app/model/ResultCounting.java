@@ -1,7 +1,7 @@
 package edu.uniandes.ecos.ASE.app.model;
 
 /**
- * 
+ * Clase que maneja el resultado del conteo
  * @author fbenavides
  */
 public class ResultCounting {

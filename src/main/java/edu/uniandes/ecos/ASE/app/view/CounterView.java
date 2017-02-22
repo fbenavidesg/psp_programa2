@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- *
+ * Clase que maneja la vista
  * @author fbenavides
  */
 public class CounterView {

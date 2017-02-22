@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *
+ * Clase para realizar el conteo de lineas
  * @author fbenavides
  */
 public class Counting {

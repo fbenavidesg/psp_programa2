@@ -4,7 +4,7 @@ import java.io.File;
 import java.util.ArrayList;
 
 /**
- *
+ * Clase que para busqueda de archivos recursivamente en la ruta ingresada
  * @author fbenavides
  */
 public class SccanerFolder {

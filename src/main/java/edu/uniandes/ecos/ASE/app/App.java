@@ -9,7 +9,10 @@ package edu.uniandes.ecos.ASE.app;
 import edu.uniandes.ecos.ASE.app.view.CounterView;
 import edu.uniandes.ecos.ASE.app.model.Counting;
 import java.io.IOException;
-
+/**
+ * Clase principal funciona como controlador
+ * @author fbenavides
+ */
 public class App {
     
     /**
