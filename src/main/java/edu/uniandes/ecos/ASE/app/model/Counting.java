@@ -100,7 +100,7 @@ public class Counting {
      * @return boolean true si es valida
      */
     private boolean isMethod( String line, int countPhysicalLines ){
-        if( line.length() > 13 && 
+        if( line.length() > 13 && line.charAt(line.length()-1) == '{' &&
             (
                 line.substring(0,11).equals("    public ")||
                 line.substring(0,11).equals("    private")
